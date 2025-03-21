@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
   &nbsp&nbsp&nbsp
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=black&color=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&color=green" />
   <img src="https://img.shields.io/badge/-electron-F1C40F?style=for-the-badge&labelColor=17202A&logo=electron&logoColor=61DBFB&color=17202A" />
 </p>
 <hr>
