@@ -1,5 +1,4 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:60efff,100:0061ff&text=Hey%20there%20👋&textBg=false&fontColor=FFFFFF&reversal=false&fontSize=50"/></p>
-<h3>Hey there 👋 My name is danny, im a 17 year-old developer from Germany.</h3>
 <table>
   <tr>
     <th>Languages</th>
