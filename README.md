@@ -30,4 +30,11 @@
       </td>
     </tr>
   </table>
+
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=calishu&text_color=FFFFFF&show_icons=true&bg_color=24292e&hide_border=true#gh-dark-mode-only" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calishu&text_color=FFFFFF&show_icons=true&bg_color=24292e&hide_border=true#gh-dark-mode-only&layout=compact" /></td>
+    </tr>
+  </table>
 </div>
