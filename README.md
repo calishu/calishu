@@ -1,40 +1,13 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:60efff,100:0061ff&reversal=false&fontSize=50"/></p>
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <p><b>👋 Hey, I'm a 17-year-old developer from Germany!</b></p>
-        <p>Passionate about coding, open-source, and always learning new things. Currently exploring Java while working on cool projects.</p>
-      </td>
-      <td>
-        <table>
-          <tr>
-            <th>Languages</th>
-            <th>Databases</th>
-            <th>Frameworks</th>
-          </tr>
-          <tr>
-            <td><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white&color=yellow" /></td>
-            <td><img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" /></td>
-            <td><img src="https://img.shields.io/badge/-electron-F1C40F?style=for-the-badge&labelColor=17202A&logo=electron&logoColor=61DBFB&color=17202A" /></td>
-          </tr>
-          <tr>
-            <td><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&labelColor=blue&color=blue" /></td>
-            <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></td>
-            <td><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=black&color=white" /></td>
-          </tr>
-          <tr>
-            <td><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=calishu&text_color=FFFFFF&show_icons=true&bg_color=24292e&hide_border=true#gh-dark-mode-only&cache_seconds=21601" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calishu&text_color=FFFFFF&show_icons=true&bg_color=24292e&hide_border=true#gh-dark-mode-only&layout=compact&cache_seconds=21601" /></td>
-    </tr>
-  </table>
-</div>
+<img src="https://raw.githubusercontent.com/calishu/calishu/main/ac263fda8b5a1e329f1f6100680236a90b48c8be.png" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=2500&pause=300&color=FFB7C5&center=true&vCenter=true&multiline=true&repeat=false&width=1300&height=140&lines=Hello+there+%5E%5E" width="70%" />
+<br><br>
+<pre>
+I'm a 17-year-old self-taught Software Developer from Germany,
+passionate about backend development.
+<br>
+I work with languages like Java, Python, and C/C++,
+constantly improving my skills and building new projects.</pre>
+<br><br>
+<img src="https://raw.githubusercontent.com/calishu/calishu/main/__hakurei_reimu_touhou_and_2_more_drawn_by_takenoko_toxic_landfill__240d5982a584af887fabab8ce7db26a0.gif" height="100" />
+<br><br><br>
