@@ -15,5 +15,5 @@ constantly improving my skills and building new projects.</pre>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calishu&layout=compact&hide=lua&theme=transparent&border_radius=10&border_color=FFB7C5&text_color=feb7c4&title_color=feb7c4" />
   &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats-orpin-six.vercel.app/?user=calishu&theme=transparent&border_radius=10&card_height=165&border=FFB7C5&stroke=FFB7C500&ring=FEB7C4&fire=FEB7C4&currStreakNum=FEB7C4&currStreakLabel=FEB7C4&sideLabels=FEB7C4&sideNums=FEB7C4&dates=FFFFFF71&cache_seconds=10&" />
+  <img src="https://github-readme-streak-stats-orpin-six.vercel.app/?user=calishu&theme=transparent&border_radius=10&card_height=165&border=FFB7C5&stroke=FFB7C500&ring=FEB7C4&fire=FEB7C4&currStreakNum=FEB7C4&currStreakLabel=FEB7C4&sideLabels=FEB7C4&sideNums=FEB7C4&dates=FFFFFF71" />
 </div>
