@@ -11,7 +11,6 @@ constantly improving my skills and building new projects.</pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/calishu/calishu/main/assets/dancing.gif" height="100" />
 <br><br><br>
-<br>
 <div>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calishu&layout=compact&hide=lua&theme=transparent&border_radius=10&border_color=FFB7C5&text_color=feb7c4&title_color=feb7c4" />
   &nbsp;&nbsp;&nbsp;
