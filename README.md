@@ -4,12 +4,12 @@
 <br><br>
 <pre>
 I'm a 17-year-old self-taught Software Developer from Germany,
-passionate about backend development.
+passionate about full-stack development.
 <br>
 I work with languages like Java, Python, and C/C++,
 constantly improving my skills and building new projects.
 <br>
-I'm also building Discoro, a custom Discord API wrapper in Python.
+For frontend, I mainly use SvelteKit together with TailwindCSS.
 </pre>
 
 <img src="https://raw.githubusercontent.com/calishu/calishu/main/assets/dancing.gif" height="100" />
