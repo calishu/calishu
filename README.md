@@ -4,12 +4,10 @@
 <br><br>
 <pre>
 I'm a 17-year-old self-taught Software Developer from Germany,
-passionate about full-stack development.
+passionate about backend and low-level development.
 <br>
-I work with languages like Java, Python, and C/C++,
+I work with languages like C/C++, Rust, and Java,
 constantly improving my skills and building new projects.
-<br>
-For frontend, I mainly use SvelteKit together with TailwindCSS.
 </pre>
 
 <img src="https://raw.githubusercontent.com/calishu/calishu/main/assets/dancing.gif" height="100" />
