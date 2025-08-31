@@ -4,9 +4,9 @@
 <br><br>
 <pre>
 I'm a 17-year-old self-taught Software Developer from Germany,
-passionate about backend and low-level development.
+passionate about software specifically low-level development.
 <br>
-I work with languages like C/C++, Rust, and Java,
+I work with languages like C and C++,
 constantly improving my skills and building new projects.
 </pre>
 
