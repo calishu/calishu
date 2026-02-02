@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 325" font-family="ConsolasFallback,Consolas,monospace" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.cc {fill: #c2cfde;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="100%" height="100%" fill="#f6f8fa" rx="10"/>
+<text x="20" y="20" fill="#24292f">
+<tspan x="20" y="25">calishu@arch</tspan> —————————————————————————————————————
+<tspan x="20" y="45" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Linux (Arch, btw.)</tspan>
+<tspan x="20" y="65" class="cc">. </tspan><tspan class="key">Age</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">17 (2008)</tspan>
+<tspan x="20" y="85" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Germany (Schwerin)</tspan>
+<tspan x="20" y="105" class="cc">. </tspan><tspan class="key">Job Status</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Student</tspan>
+<tspan x="20" y="145">- Programming</tspan> ————————————————————————————————————
+<tspan x="20" y="165" class="cc">. </tspan><tspan class="key">Development</tspan>.<tspan class="key">IDE</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Neovim, VSCode, Zed</tspan>
+<tspan x="20" y="185" class="cc">. </tspan><tspan class="key">Development</tspan>.<tspan class="key">Systems</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">C, C++, Zig, Java</tspan>
+<tspan x="20" y="205" class="cc">. </tspan><tspan class="key">Development</tspan>.<tspan class="key">Frontend</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">HTML, CSS, Svelte</tspan>
+<tspan x="20" y="225" class="cc">. </tspan><tspan class="key">Development</tspan>.<tspan class="key">Scripting</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Bash, Python, Lua</tspan>
+<tspan x="20" y="265">- Contact</tspan> ————————————————————————————————————————
+<tspan x="20" y="285" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">email@calishu.dev</tspan>
+<tspan x="20" y="305" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">@calishu</tspan>
+</text>
+</svg>
