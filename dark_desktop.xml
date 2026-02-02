@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 985 440" font-family="ConsolasFallback,Consolas,monospace" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="100%" height="100%" fill="#161b22" rx="10"/>
+
+<text x="20" y="40" fill="#1793D1" class="ascii">
+<tspan x="20" y="40">                  -`</tspan>
+<tspan x="20" y="60">                 .o+`</tspan>
+<tspan x="20" y="80">                `ooo/</tspan>
+<tspan x="20" y="100">               `+oooo:</tspan>
+<tspan x="20" y="120">              `+oooooo:</tspan>
+<tspan x="20" y="140">              -+oooooo+:</tspan>
+<tspan x="20" y="160">            `/:-:++oooo+:</tspan>
+<tspan x="20" y="180">           `/++++/+++++++:</tspan>
+<tspan x="20" y="200">          `/++++++++++++++:</tspan>
+<tspan x="20" y="220">         `/+++ooooooooooooo/`</tspan>
+<tspan x="20" y="240">        ./ooosssso++osssssso+`</tspan>
+<tspan x="20" y="260">       .oossssso-````/ossssss+`</tspan>
+<tspan x="20" y="280">      -osssssso.      :ssssssso.</tspan>
+<tspan x="20" y="300">     :osssssss/        osssso+++.</tspan>
+<tspan x="20" y="320">    /ossssssss/        +ssssooo/-</tspan>
+<tspan x="20" y="340">  `/ossssso+/:-        -:/+osssso+-</tspan>
+<tspan x="20" y="360"> `+sso+:-`                 `.-/+oso:</tspan>
+<tspan x="20" y="380">`++:.                           `-/+/</tspan>
+<tspan x="20" y="400">.`                                 ` /</tspan>
+</text>
+
+<text x="390" y="80" fill="#c9d1d9">
+<tspan x="390" y="80">calishu@arch</tspan> ———————————————————————————————————————————————
+<tspan x="390" y="100" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">Linux (Arch, btw.)</tspan>
+<tspan x="390" y="120" class="cc">. </tspan><tspan class="key">Age</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">17 (2008)</tspan>
+<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Germany (Schwerin)</tspan>
+<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">Job Status</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">Student</tspan>
+<tspan x="390" y="180"></tspan>
+<tspan x="390" y="200">- Programming</tspan> ——————————————————————————————————————————————
+<tspan x="390" y="220" class="cc">. </tspan><tspan class="key">Development</tspan>.<tspan class="key">IDE</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Neovim, VSCode, Zed</tspan>
+<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">Development</tspan>.<tspan class="key">Systems</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">C, C++, Zig, Java</tspan>
+<tspan x="390" y="260" class="cc">. </tspan><tspan class="key">Development</tspan>.<tspan class="key">Frontend</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">HTML, CSS, Svelte</tspan>
+<tspan x="390" y="280" class="cc">. </tspan><tspan class="key">Development</tspan>.<tspan class="key">Scripting</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Bash, Python, Lua</tspan>
+<tspan x="390" y="300"></tspan>
+<tspan x="390" y="320">- Contact</tspan> ——————————————————————————————————————————————————
+<tspan x="390" y="340" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">email@calishu.dev</tspan>
+<tspan x="390" y="360" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">@calishu</tspan>
+</text>
+</svg>
